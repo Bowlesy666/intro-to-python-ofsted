@@ -74,3 +74,5 @@
 
 # Now open up 011_identity.py and get started with some
 # real code!
+
+# Hey thanks for the comments, David
